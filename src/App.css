@@ -1,0 +1,28 @@
+body {
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/679/351/670/soft-gradient-solid-color-gradient-hd-wallpaper-preview.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.home-link {
+  color: blue; /* Change color for home link */
+  font-family: 'Arial', sans-serif;
+}
+
+.home-link:hover {
+  color:red; /* Change color on hover for home link */
+  text-decoration: underline; 
+  font-weight: bold;
+}
+
+.view-tasks-link {
+  color: blue; /* Change color for view tasks link */
+  font-family: 'Arial', sans-serif;
+}
+
+.view-tasks-link:hover {
+  color: red; /* Change color on hover for view tasks link */
+  text-decoration: underline; 
+  font-weight: bold;
+}
