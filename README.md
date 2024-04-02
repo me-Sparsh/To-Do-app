@@ -10,25 +10,26 @@ This is a simple To-Do application built with ReactJS, Redux, and Bootstrap 5. I
 
 2. Install dependencies using npm or yarn:
 
-  npm install
+  "npm install"
   or
-  yarn install
+  "yarn install"
 
 3. Running the Application:
-  To start the development server and run the application, use the following command:
+   
+To start the development server and run the application, use the following command:
   
-  npm start
+  "npm start"
   or
-  yarn start
+  "yarn start"
   
   This will start the development server and open the application in your default web browser.
 
 4. Usage:
    
-  a. To add a new task, enter the task description in the input field and press Enter or click the "Add Task" button.
-  b. To view all tasks, click on the "View Tasks" button in the navigation bar.
-  c. To delete a task, click the "Delete" button next to the task.
-  d. To mark a task as completed, click the "Done" button next to the task (if available).
+  a. To add a new task, enter the task description in the input field and press Enter or click the "Add Task" button.<br>
+  b. To view all tasks, click on the "View Tasks" button in the navigation bar.<br>
+  c. To delete a task, click the "Delete" button next to the task.<br>
+  d. To mark a task as completed, click the "Done" button next to the task (if available).<br>
   
 5. Persistent Storage:
    
@@ -36,6 +37,6 @@ This is a simple To-Do application built with ReactJS, Redux, and Bootstrap 5. I
 
 6. Technologies Used:
    
-  ReactJS
-  Redux
+  ReactJS<br>
+  Redux<br>
   Bootstrap 5
