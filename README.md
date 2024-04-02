@@ -4,21 +4,17 @@ This is a simple To-Do application built with ReactJS, Redux, and Bootstrap 5. I
 
 ## Setup
 
-1. Clone the repository:
-
-   git clone <repository-url>
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
    
   cd to-do-app
 
-3. Install dependencies using npm or yarn:
+2. Install dependencies using npm or yarn:
 
   npm install
   or
   yarn install
 
-4. Running the Application:
+3. Running the Application:
   To start the development server and run the application, use the following command:
   
   npm start
@@ -27,18 +23,18 @@ This is a simple To-Do application built with ReactJS, Redux, and Bootstrap 5. I
   
   This will start the development server and open the application in your default web browser.
 
-5. Usage:
+4. Usage:
    
   a. To add a new task, enter the task description in the input field and press Enter or click the "Add Task" button.
   b. To view all tasks, click on the "View Tasks" button in the navigation bar.
   c. To delete a task, click the "Delete" button next to the task.
   d. To mark a task as completed, click the "Done" button next to the task (if available).
   
-6. Persistent Storage:
+5. Persistent Storage:
    
   Tasks are saved to local storage, so they will persist even if you reload the page or close the browser.
 
-7. Technologies Used:
+6. Technologies Used:
    
   ReactJS
   Redux
