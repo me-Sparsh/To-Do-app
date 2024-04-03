@@ -17,7 +17,10 @@ This is a simple To-Do application built with ReactJS, Redux, and Bootstrap 5. I
 3. Running the Application:
    
 To start the development server and run the application, use the following command:
-  
+
+   "npm install react-scripts --save"
+   
+   then,
   "npm start"
   or
   "yarn start"
